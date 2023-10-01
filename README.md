@@ -10,9 +10,9 @@ pkg install python
 
 pkg install git
 
-pkg install bs4
+pip install bs4
 
-pkg install rich
+pip install rich
 
 git clone https://github.com/R1M0N-Ahmed/Random-Cloing
 
