@@ -18,4 +18,4 @@ git clone https://github.com/R1M0N-Ahmed/Random-Cloing
 
 cd Random-Cloing
 
-python Random-Fire.py 
+python RIMON-XD.py 
